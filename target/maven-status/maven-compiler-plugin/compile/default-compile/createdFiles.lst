@@ -1,0 +1,6 @@
+com/gcit/domain/Author.class
+com/gcit/controller/LMSBookController.class
+com/gcit/dao/BookDao2.class
+com/gcit/controller/LMSAuthorController.class
+com/gcit/LmsApplication.class
+com/gcit/dao/AuthorDao.class
